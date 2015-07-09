@@ -1,2 +1,2 @@
 # blog
-a site for blogging
+a site for blogging stuffs
